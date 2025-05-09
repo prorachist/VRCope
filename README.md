@@ -9,4 +9,4 @@ Steps to run the Demo:
 
 Due to file size constraints, not all the assets/scripts are uploaded to GitHub. The entire source project, with all environment dependencies, is uploaded to Google Drive.
 
-https://drive.google.com/drive/folders/1CldptLTtPeX73U6QmZsMj72ATD_qHqaT?usp=drive_link
+[https://drive.google.com/drive/folders/1CldptLTtPeX73U6QmZsMj72ATD_qHqaT?usp=drive_link](https://drive.google.com/drive/folders/1Wrp_DWkx3Zhvi_gHl-bUfMnix2fHYjdU?usp=sharing)
